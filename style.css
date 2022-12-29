@@ -55,5 +55,29 @@ body{
 }
 .bottom-img{
     width: 100%;
-    border: 1px solid red;
+    /*border: 1px solid red;*/
+}
+/*--------------Service Section--------------------*/
+
+#service{
+    padding: 60px 0;
+}
+.services-img{
+    width: 100px;
+}
+.services{
+    padding: 20px;
+}
+.services h1{
+    padding: 5px;
+    margin-top: 25px;
+    text-transform: uppercase;
+}
+
+#service .btn-primary{
+    box-shadow: none;
+    padding: 8px 25px;
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, #9b59b6,#8e44ad);
 }
